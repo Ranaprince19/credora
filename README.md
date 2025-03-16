@@ -52,6 +52,10 @@ To address this issue, we have developed **Credora**, a smart AI-powered financi
 
 ## 🎬 Prototype Demo
 📹 [Watch the Prototype Demo](https://drive.google.com/file/d/1kY60FKwjU2feI1qKuNlPn4XpFiDNjQDo/view?usp=sharing)
+## Source Code 
+📹 [Watch the Source Code](https://drive.google.com/drive/folders/1yYSioCmc9rpid_x_kEYSAGu3qh4B8cSD?usp=sharing)
+
+
 
 ---
 
